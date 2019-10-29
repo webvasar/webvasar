@@ -43,8 +43,10 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": true,
-      "text": "By continuing you agree to our <http://aszf.fogyaszto-barat.hu/documents/1005/20191015180412_adatvedelmi.pdf>."
-    }
+      "text": "By continuing you agree to our {http://aszf.fogyaszto-barat.hu/documents/1005/20191015180412_adatvedelmi.pdf>}"
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": ""
   },
   "pages": {
     "index.html": {
